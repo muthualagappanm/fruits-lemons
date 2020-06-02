@@ -1,0 +1,56 @@
+{
+    "metaDataVersion": "1.0.0",
+    "category": "com.microchip.fruits.project",
+    "content": {
+        "metaDataVersion": "1.0.0",
+        "name": "com.microchip.fruits.project.lemons",
+        "version": "1.75.2",
+        "displayName": "Lemons",
+        "FruitName": "Lemons",
+        "shortDescription": "The lemon is a very healthy fruit that is loaded with vitamin C and fiber. ",
+        "category": [
+            "Citrus"
+        ],
+        "color": "Yellow",
+        "season": [
+            "Summer"
+        ],
+        "shape": "Round",
+        "family": "fruits",
+        "expires": "30/01/2021",
+        "warranty": "NA",
+        "returnPolicy": "NA",
+        "keywords": [
+            "Summer",
+            "Citrus",
+            "Yellow"
+        ],
+        "vendors": {
+            "vendorName": "amazon",
+            "price": "2$",
+            "dealer": {
+                "dealerName": "Online",
+                "location": {
+                    "state": "Arizona",
+                    "Address": {
+                        "Address Line 1": "W1705",
+                        "Address Line 2": "West Street",
+                        "State": "Arizona",
+                        "Country": "US"
+                    }
+                }
+            }
+        }
+    },
+    "additionalData": {
+        "longDescription": {
+            "metaDataVersion": "1.0.0",
+            "category": "com.microchip.portal.fileRef",
+            "content": {
+                "metaDataVersion": "1.0.0",
+                "fileName": "./README.md",
+                "mimeType": "text/markdown"
+            }
+        }
+    }
+}
